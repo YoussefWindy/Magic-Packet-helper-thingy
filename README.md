@@ -19,4 +19,4 @@ I'm sorry I didn't put much effort into making the instructions easy to follow, 
 
 ## Credits
 
-> [Me](https://www.github.com/YoussefWindy, "GitHub")
+> [Me](https://www.github.com/YoussefWindy "GitHub")
