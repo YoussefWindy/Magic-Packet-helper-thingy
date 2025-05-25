@@ -17,6 +17,6 @@ I'm sorry I didn't put much effort into making the instructions easy to follow, 
 7. (Optional) Replace the IP in `addresses.txt` with your current one to prevent the script sending you an email right away needlessly
 8. Yay, you're done! Now you'll get an email if your IP ever changes (check your spam folder though lol)
 
-## Credits
+## Author
 
 > [Youssef Guindi](https://www.github.com/YoussefWindy "GitHub")
